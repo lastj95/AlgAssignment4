@@ -45,10 +45,10 @@ public class Problem2 {
         int totalMoneyMade = 0;
         int dayNum = 1;
         System.out.println("Optimal schedule:");
-        for (int i = 0; i < schedule.length; i++) {
-            if (schedule[i] != null) {
-                totalMoneyMade += schedule[i][1];
-                System.out.println("Day " + dayNum + ": " + schedule[i][0] + " " + schedule[i][1] + " " + schedule[i][2]);
+        for (int[] request : schedule) {
+            if (request != null) {
+                totalMoneyMade += request[1];
+                System.out.println("Day " + dayNum + ": " + request[0] + " " + request[1] + " " + request[2]);
                 dayNum++;
             }
         }
