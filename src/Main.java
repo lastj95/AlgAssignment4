@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/*
+ * Assignment 4: Matthew Bertello, James Last, Adeel Sultan
+ */
 public class Main {
 
     /*
@@ -33,7 +36,6 @@ public class Main {
                 Problem1.P1();
                 System.out.println();
                 Problem2.P2();
-                System.out.println();
                 break;
         }
     }

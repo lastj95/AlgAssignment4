@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8222ea86-4492-4420-997c-273cefbb03c4" name="Changes" comment="First commit. Just decided to quickly make the boilerplate code to get to each problem and get a repo going!">
+    <list default="true" id="8222ea86-4492-4420-997c-273cefbb03c4" name="Changes" comment="Implemented problem 1. After testing on various inputs and edge cases I believe that this works fully (and runs very fast as well), but let me know if anything doesn't work correctly or doesn't make sense!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/CS Workspace/CS321_F2023_Assignments"
+    "last_opened_file_path": "F:/CS Workspace/AlgAssignment4"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,11 +58,20 @@
       <option name="project" value="LOCAL" />
       <updated>1700177548275</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Implemented problem 1. After testing on various inputs and edge cases I believe that this works fully (and runs very fast as well), but let me know if anything doesn't work correctly or doesn't make sense!">
+      <option name="closed" value="true" />
+      <created>1700552574151</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700552574151</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit. Just decided to quickly make the boilerplate code to get to each problem and get a repo going!" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit. Just decided to quickly make the boilerplate code to get to each problem and get a repo going!" />
+    <MESSAGE value="Implemented problem 1. After testing on various inputs and edge cases I believe that this works fully (and runs very fast as well), but let me know if anything doesn't work correctly or doesn't make sense!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented problem 1. After testing on various inputs and edge cases I believe that this works fully (and runs very fast as well), but let me know if anything doesn't work correctly or doesn't make sense!" />
   </component>
 </project>
